@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Brand-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Brand-Management-Platform?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Brand-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Brand-Management-Platform?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Brand-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Brand-Management-Platform?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Brand-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Brand-Management-Platform?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The SaaS market in brand asset management is sorted below by company scale (esti
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-Self-hosted open-source Digital Asset Management systems sorted by **GitHub Star Count (descending)**.
+Self-hosted open-source Digital Asset Management systems sorted by **GitHub Stars_Count (descending)**.
 
-| Project Name | Badge / Star Count ⭐ | Description & Primary Capabilities | License 📜 |
+| Project Name | Badge / Stars_Count ⭐ | Description & Primary Capabilities | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[Immich](https://github.com/immich-app/immich)** 🌟 | [<img src="https://img.shields.io/github/stars/immich-app/immich?style=social&color=white" alt="Immich Stars"/>](https://github.com/immich-app/immich/stargazers) | High-performance self-hosted backup, tag management, and photo/video asset management platform with ML face recognition and mobile sync. | AGPL-3.0 |
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** 📄 | [<img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white" alt="Paperless-ngx Stars"/>](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Community-driven document asset management system with automated OCR, tag indexing, and brand document archiving capabilities. | GPL-3.0 |
